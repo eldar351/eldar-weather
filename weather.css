@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap');
+
+body {
+    /* Location of the image */
+    background-image: url('/images/red.png');
+      background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-size: cover;
+background-color: #464646;
+  } 
+  .weather{
+  border: transparent;
+    background-color:transparent;
+
+  }
+  h1{font-family: 'Baloo Chettan', cursive;
+    font-size: 5rem;
+    padding-bottom: 2px;
+    color: #000000;
+  }
+ 
+  h2{font-family: 'Arbutus Slab', serif;
+font-size:3rem;
+    color: #ffffff;
+
+  }
+  h4{    color: #dfdbdb;
+
+  }
+  h6{    color: #dfdbdb;
+
+  }
+  p{
+    color: #dfdbdb;
+  }
+.today{
+  height: 150px;
+  width: 140px;
+
+  border-radius: 10px;
+  background:rgb(240, 78, 78);
+  
+}
